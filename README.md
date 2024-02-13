@@ -1,2 +1,1 @@
-# Text-Translation-and-Sentiment-Analysis-using-Transformers
-Analyze the sentiment of reviews using a pre-trained model from HuggingFace.
+The objective of this project is to analyze the sentiment of movie reviews in three different languages - English, French, and Spanish. 
